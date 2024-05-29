@@ -1,0 +1,1 @@
+# Language-Pack-Japanese-for-DiscordPlus
